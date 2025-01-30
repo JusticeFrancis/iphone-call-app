@@ -60,7 +60,7 @@ const Main = () => {
         </div>
       ) : (
         <div>
-          <div className="pt-3 h-[92vh]">
+          <div className="pt-3 h-[80vh]">
             <div className="flex items-center justify-between px-8">
               <div className="text-black text-[14px]">
                 {" "}
